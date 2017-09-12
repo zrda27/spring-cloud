@@ -18,6 +18,7 @@
 		<module>service2</module>
 		<module>ui</module>
 		<module>monitor</module>
+		<module>config-static</module>
 	</modules>
 	
 	<parent>
